@@ -1,0 +1,14 @@
+.photo-grid {
+  width: 92.5%;
+  margin: 0 auto;
+  margin-bottom: 92px;
+  display: grid;
+  grid-template-columns: repeat(4 , 1fr);
+  grid-template-rows: repeat(3 , 1fr);
+  gap: 16px;
+}
+
+.photo-grid__item {
+  width: 284px;
+  height: 213px;
+}
