@@ -21,3 +21,5 @@
 @import url(../blocks/intro/__num/intro__num.css);
 
 @import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
+@import url(../blocks/photo-grid/__img/photo-grid__img.css);
