@@ -1,0 +1,32 @@
+.footer {
+  width: 92.5%;
+  margin: 0 auto;
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer__links {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.footer__link {
+  width: 100%;
+  display: block;
+  font-size: 1rem;
+  line-height: 1.12;
+  color: #FFFFFF;
+  text-decoration: none;
+  transition: opacity 1s;
+}
+.footer__link:not(:last-child){
+  margin-right: 18px;
+}
+.footer__link:hover {
+  opacity: 0.8;
+}
+
+.footer__copyright {}
