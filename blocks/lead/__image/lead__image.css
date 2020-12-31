@@ -4,5 +4,6 @@
   position: relative;
   background-image: url(../../../images/lead-polka.jpg);
   background-position: center;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
 }

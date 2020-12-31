@@ -11,6 +11,6 @@
   margin-right: 18px;
 }
 
-.header__link:hover {
+.header__link:first-of-type {
   text-decoration: underline;
 }

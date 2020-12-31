@@ -1,6 +1,11 @@
 .lead__image-route {
+  width: 90%;
   display: block;
   margin: 0 auto;
   position: relative;
   top: 95px;
+}
+
+@media screen and (max-width: 1024px) {
+
 }
