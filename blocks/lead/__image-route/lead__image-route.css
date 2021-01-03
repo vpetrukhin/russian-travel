@@ -6,6 +6,8 @@
   top: 95px;
 }
 
-@media screen and (max-width: 1024px) {
-
+@media screen and (max-width: 320px) {
+  .lead__image-route {
+    top: 30px;
+  }
 }
