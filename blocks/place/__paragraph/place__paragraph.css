@@ -6,3 +6,10 @@
 .place__paragraph:first-child {
   margin-bottom: 26px;
 }
+
+@media screen and (max-width: 768px) {
+  .place__paragrap {
+    font-size: 1rem;
+    line-height: 1.63;
+  }
+}

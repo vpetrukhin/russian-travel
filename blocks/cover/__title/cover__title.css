@@ -9,3 +9,17 @@
   text-align: center;
   z-index: 2;
 }
+
+@media screen and (max-width: 1024px) {
+  .cover__title {
+    width: 560px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__title {
+    width: 288px;
+    font-size: 2rem;
+    line-height: 1.09;
+  }
+}

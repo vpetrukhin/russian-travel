@@ -10,3 +10,15 @@
   background-position: center;
   background-size: cover;
 }
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    height: 200px;
+  }
+}
