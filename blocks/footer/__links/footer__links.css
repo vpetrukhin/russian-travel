@@ -5,6 +5,13 @@
   list-style-type: none;
 }
 
+@media screen and (max-width: 425px) {
+  .footer__links {
+    width: 100%;
+    flex-direction: column;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .footer__links {
     width: 100%;

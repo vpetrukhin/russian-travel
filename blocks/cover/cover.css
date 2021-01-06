@@ -17,8 +17,23 @@
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 570px) {
+  .cover {
+    height: 400px;
+    margin-bottom: 75px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .cover {
+    height: 300px;
+    margin-bottom: 64px;
+  }
+}
+
+@media screen and (max-width: 320px) {
   .cover {
     height: 200px;
+    margin-bottom: 64px;
   }
 }

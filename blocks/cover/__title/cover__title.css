@@ -16,9 +16,28 @@
   }
 }
 
+@media screen and (max-width: 570px) {
+  .cover__title {
+    width: 250px;
+    height: 70px;
+    font-size: 2.2rem;
+    line-height: 1.09;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .cover__title {
+    width: 250px;
+    height: 70px;
+    font-size: 2.2rem;
+    line-height: 1.09;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .cover__title {
-    width: 288px;
+    width: 250px;
+    height: 70px;
     font-size: 2rem;
     line-height: 1.09;
   }
