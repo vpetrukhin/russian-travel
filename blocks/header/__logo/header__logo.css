@@ -2,6 +2,7 @@
   width: 176px;
   height: 55px;
   margin-right: auto;
+  background-image: url(../../../images/header-logo.svg);
 }
 
 @media screen and (max-width: 320px) {
