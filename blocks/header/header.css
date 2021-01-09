@@ -6,12 +6,6 @@
   margin: 28px 48px 56px;
 }
 
-@media screen and (max-width: 1024px) {
-  .header {
-    
-  }
-}
-
 @media screen and (max-width: 768px) {
   .header {
     margin: 28px 24px 48px;
