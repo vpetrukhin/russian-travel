@@ -22,7 +22,7 @@
     min-height: 340px;
   }
 }
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 705px) {
   .place__img {
     margin: 0 auto;
   }

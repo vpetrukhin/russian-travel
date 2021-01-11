@@ -28,7 +28,7 @@
   }
 }
 
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 705px) {
   .place {
     height: 100%;
     display: flex;
