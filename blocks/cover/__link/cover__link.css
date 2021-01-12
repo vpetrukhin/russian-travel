@@ -39,6 +39,19 @@
   }
 }
 
+@media screen and (max-width:570px) {
+  .cover__link {
+    min-height: 400px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .cover__link {
+    min-height: 300px;
+  }
+}
+
+
 @media screen and (max-width:320px) {
   .cover__link {
     min-height: 200px;
