@@ -9,7 +9,7 @@
   column-gap: 40px;
 }
 .place:last-of-type {
-  grid-template-columns: repeat(2, minmax(288px, 1fr));
+  grid-template-columns: repeat(2, minmax(320px, 1fr));
 }
 .place:not(:last-child) {
   margin-bottom: 80px;

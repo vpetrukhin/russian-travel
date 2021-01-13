@@ -27,9 +27,16 @@
     margin: 0 auto;
   }
 }
+@media screen and (max-width: 365px) and (min-width:321px) {
+  .place__img {
+    width: 100%;
+    min-height: 320px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .place__img {
-    max-width: 320px;
+    max-width: 100%;
     min-height: 320px;
   }
 }
